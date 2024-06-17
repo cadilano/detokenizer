@@ -25,7 +25,7 @@ setup(
     long_description = long_descr,
     long_description_content_type='text/markdown',
     author = "Matthias Müller",
-    author_email = "mmueller.persoanl@gmail.com",
+    author_email = "mmueller.sk@gmail.com",
     url = "https://github.com/mmuellersk/detokenizer.git",
     install_requires=[
         'pyyaml'
